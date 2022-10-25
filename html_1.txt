@@ -1,0 +1,1 @@
+Flex direction allows you to do organize the element in vertically or horizontally to the page.
